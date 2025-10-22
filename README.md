@@ -1,4 +1,3 @@
-### Hi there 👋
 ![alt text](https://media.tenor.com/YCHdnsyjXa4AAAAM/the-simpsons-ralph-wiggum.gif)
 <!--
 **RicardRomani/RicardRomani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
